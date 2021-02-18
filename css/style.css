@@ -1,0 +1,193 @@
+body{
+    margin: auto;
+    width: 80%;
+}
+header{
+    padding: 2% 0;
+    position: relative;
+    width: 100%;
+    margin: auto;
+}
+#artical h2:nth-child(2){
+     color: gray;
+}
+#borderheader{
+    background-image: url('../img/hr-img.png');
+    height: 15px;
+    margin: 2% 0;
+    width: 100%;
+}
+.sameline-imghead{
+ margin-right: 2%;
+ display: inline-block;
+}
+#pHeader{
+    font-size: x-small;
+    width: 141%;
+    font-family: 'Josefin Sans';
+}
+h3{
+    font-size: 36px;
+    font-family: 'Yellowtail';
+    font-weight: bold;
+
+}
+main{
+    width: 100%;
+}
+#logomiddle{
+    float: right;
+}
+#logo{
+    float: left;
+    margin: 0 5% 0 0;
+}
+.imagehead{
+    float: right;
+}
+#logoright{
+    position: absolute;
+    right: 0px;
+}
+#logomiddle{
+    position: absolute;
+    right: 6%;
+}
+#article{
+    width: 100%;
+    position: relative;
+}
+#article h1{
+color: #000000;
+font-size: 30px;
+font-weight: bold;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#article h2{
+    font-size: 15px;
+    font-weight: 20px;
+    position: absolute;
+
+}
+
+#rightimg{
+float: right;
+right: 1%;
+
+}
+
+#mainPic{
+margin: 4% auto;
+width: 100%;
+}
+#printPic{
+    width: 13px;
+    height: 13px;
+    position: absolute;
+    right: 5%;
+    margin-right: 3%;
+}
+#article pre{
+line-height: 20px;
+font-size: large; 
+margin-top: 15px;
+font-family: 'Times New Roman', Times, serif;
+font-style: normal;
+position: relative;
+top:5%;
+}
+
+#back{
+    margin-top: 10px;
+    background-image: url(../img/list-bg.png);
+    height: 350px;
+    position: relative;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.secound{
+   margin: 50px;
+}
+.first{
+    margin:40px 100px 40px 60px ;
+    position: absolute;
+    left: 1%;
+}
+
+.secound{
+    margin:40px 40px 40px 60px ;
+    right: 14%;
+    position: absolute;
+}
+
+.sameline{
+    display: inline-block;
+}
+
+#back p{
+padding: 5.5px;
+font-style: 'Ubuntu';
+
+}
+
+#back input[type=checkbox]:checked + label{
+    text-decoration: line-through;
+  }
+
+  .footerParagraph {
+    font-size: 13px;
+    margin: auto;
+    margin-bottom: 4%;
+    width: 80%;
+    text-align: center;
+    line-height: 2;
+    margin-top: 1%;
+}
+
+.footerImg {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.vanessa {
+    width: 100%;
+    float: left;
+    position: relative;
+}
+
+.vanPic {
+    display: inline;
+    float: left;
+}
+
+.button {
+    position: absolute;
+    background-color: #b84a36;
+    height: 50px;
+    right: 0%;
+    top: 0%;
+    width: 170px;
+}
+
+h4.vanName {
+    padding-left: 88px;
+    margin-left: 8px;
+}
+
+p.ppp {
+    padding-left: 94px;
+    height: 45px;
+    width: 500px;
+}
+
+footer {
+    margin-top: 50px;
+}
+
+.hr {
+    width: 45%;
+    display: inline-block;
+}
