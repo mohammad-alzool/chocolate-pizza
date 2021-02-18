@@ -35,9 +35,6 @@ h3{
 main{
     width: 100%;
 }
-#logomiddle{
-    float: right;
-}
 #logo{
     float: left;
     margin: 0 5% 0 0;
@@ -50,8 +47,9 @@ main{
     right: 0px;
 }
 #logomiddle{
+    float: right;
     position: absolute;
-    right: 6%;
+    right: 2%;
 }
 #article{
     width: 100%;
@@ -88,8 +86,8 @@ width: 100%;
     margin-right: 3%;
 }
 #article pre{
-line-height: 20px;
-font-size: large; 
+line-height: 22px;
+font-size: 23px; 
 margin-top: 15px;
 font-family: 'Times New Roman', Times, serif;
 font-style: normal;
